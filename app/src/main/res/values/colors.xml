@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--Text Colors -->
+    <color name="MainDark">#000E08</color>
+    <color name="halfDark">#80000E08</color>
+    <color name="whiteText">#FFFFFFFF</color>
+    <color name="halfWhite">#80FFFFFF</color>
+    <color name="Grey">#797C7B</color>
+    <color name="darkGrey">#80797C7B</color>
+    <color name="violetMain">#3D4A7A</color>
+    <color name="violetDark">#1B2137</color>
+<!-- UI Colors -->
+    <color name="lightButton">#5EFFFFFF</color>
+    <color name="regButton">#3D4A7A</color>
+    <color name="secButton">#D3E0FF</color>
+    <color name="radialButton">#33FFFFFF</color>
+    <color name="darkIcons">#000E08</color>
+    <color name="messageReceived">#F2F7FB</color>
+    <color name="messageSent">#3D4A7A</color>
+
+
+</resources>

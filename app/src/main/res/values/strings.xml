@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="connect_friends_easily_and_quickly">Connect Friends Easily and Quickly</string>
+    <string name="our_chat_app_is_the_perfect_way_to_stay_connected_with_friends_and_family">Our chat app is the perfect way to stay connected with friends and family.</string>
+    <string name="sign_up_with_mail">Sign up with mail</string>
+    <string name="enter_information_to_create_your_account_n_with_us">Enter information to create your account \n with us</string>
+    <string name="a_verification_code_has_been_sent_to_your_given_email_address_enter_the_code_below_to_registration_process">A verification code has been sent to your given email address. Enter the code below to registration process.</string>
+    <string name="verification">Verification</string>
+    <string name="or_continue_with">OR continue with</string>
+</resources>

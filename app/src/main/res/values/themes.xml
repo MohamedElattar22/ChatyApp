@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Test" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/violetDark</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="lightButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background" >
+          @drawable/button_regular
+        </item>
+       <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/bold</item>
+
+    </style>
+    <style name="gradientButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background" >
+            @drawable/button_gradient
+        </item>
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/bold</item>
+
+    </style>
+    <style name="mainButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background" >
+            @drawable/button_main
+        </item>
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/bold</item>
+
+    </style>
+    <style name="cardStyle" parent="Theme.Material3.DayNight">
+        <item name="android:topRightRadius" >
+            50dp
+        </item>
+
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/bold</item>
+
+    </style>
+
+
+
+
+    <style name="Theme.Test" parent="Base.Theme.Test" />
+</resources>
